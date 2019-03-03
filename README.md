@@ -10,4 +10,4 @@
 ![alt text](Screenshot_from_2018-02-28_13-34-18.png)
 - Classification result:
 
-![alt text](Screenshot_from_2018-02-28_13-34-18.png)
+![alt text](Screenshot_from_2018-02-28_13-21-43.png)
