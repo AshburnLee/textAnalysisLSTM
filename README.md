@@ -6,6 +6,6 @@
 
 2. Results
 - The training and testing process
-![alt text](Screenshot from 2018-02-28 13-34-18.png)
+![alt text](Screenshot_from_2018-02-28_13-34-18.png)
 - Classification result
-![alt text](Screenshot from 2018-02-28 13-34-18.png)
+![alt text](Screenshot_from_2018-02-28_13-34-18.png)
