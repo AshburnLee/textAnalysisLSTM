@@ -5,7 +5,9 @@
 - Get raw [dataset](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) from kaggel 
 
 2. Results
-- The training and testing process
+- The training and testing process:
+
 ![alt text](Screenshot_from_2018-02-28_13-34-18.png)
-- Classification result
+- Classification result:
+
 ![alt text](Screenshot_from_2018-02-28_13-34-18.png)
